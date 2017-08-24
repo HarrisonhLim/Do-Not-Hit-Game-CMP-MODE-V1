@@ -1,0 +1,7 @@
+ALG_1 rounds_played: 211 total_time: 0.6834788150921103 average_time_per_round: 0.003239236090483935
+ALG_1 rounds_played: 211 total_time: 0.7103111942795122 average_time_per_round: 0.003366403764357878
+ALG_1 rounds_played: 561 total_time: 4.287428231390196 average_time_per_round: 0.0076424745657579255
+ALG_2 rounds_played: 211 total_time: 0.004446765305824634 average_time_per_round: 2.1074717089216276e-05
+ALG_2 rounds_played: 211 total_time: 0.005807187773028385 average_time_per_round: 2.7522216933783818e-05
+ALG_2 rounds_played: 561 total_time: 0.011428228369918005 average_time_per_round: 2.037117356491623e-05
+
